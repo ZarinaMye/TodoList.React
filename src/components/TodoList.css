@@ -1,0 +1,22 @@
+.todoList {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+  
+.todoTask {
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 7px;
+    list-style-type: none;
+}
+
+.taskDone {
+    color: green;
+    font-weight: bold;
+}
+
+.taskUndone {
+    color: red;
+}

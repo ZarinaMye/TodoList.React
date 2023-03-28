@@ -1,0 +1,15 @@
+G
+[x] Skapa en todo lista, hårdkodad ev useEffect - return;(för att stoppa den hämta todoList igen..) - getTodoList
+[x] Visa listan i ex ul-li i html
+[x] Todo task ska kunna tas bort (ex vilkordstyrd rendering o show, el lifting state up)
+[x] Spara todo i ls, ska finnas kvar vid uppdatering av sidan
+[x] Bra kod o struktur, förklarande variabel-/funktions-namn o rensa kommentarer
+
+VG
+[x] Minst 3 komponenter skapade
+[x] (Lifting state up) använd  (används för att ta bort todotask, lägga till ny)
+[x] ändra status på todo task mellan klar o oklar
+[x] Skapa nya todo via formulär input 
+[x] Sortera listan, hur det görs o på vad är valfritt 
+
+Problem: 
